@@ -1,0 +1,2 @@
+# Requires: proto-threshold
+# (Not available on PyPI)
